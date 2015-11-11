@@ -1,0 +1,15 @@
+C:\Users\IEUser\AppData\Local\Temporary Projects\ExcelImporterTest01\bin\Debug\ExcelImporterTest01.exe.config
+C:\Users\IEUser\AppData\Local\Temporary Projects\ExcelImporterTest01\obj\Debug\ExcelImporterTest01.vbprojResolveAssemblyReference.cache
+C:\Users\IEUser\AppData\Local\Temporary Projects\ExcelImporterTest01\obj\Debug\ExcelImporterTest01.Resources.resources
+C:\Users\IEUser\AppData\Local\Temporary Projects\ExcelImporterTest01\obj\Debug\ExcelImporterTest01.startForm.resources
+C:\Users\IEUser\AppData\Local\Temporary Projects\ExcelImporterTest01\obj\Debug\ExcelImporterTest01.vbproj.GenerateResource.Cache
+C:\Users\IEUser\AppData\Local\Temporary Projects\ExcelImporterTest01\obj\Debug\ExcelImporterTest01.xml
+C:\Users\IEUser\AppData\Local\Temporary Projects\ExcelImporterTest01\bin\Debug\ExcelImporterTest01.exe
+C:\Users\IEUser\AppData\Local\Temporary Projects\ExcelImporterTest01\bin\Debug\ExcelImporterTest01.pdb
+C:\Users\IEUser\AppData\Local\Temporary Projects\ExcelImporterTest01\bin\Debug\ExcelImporterTest01.xml
+C:\Users\IEUser\AppData\Local\Temporary Projects\ExcelImporterTest01\obj\Debug\ExcelImporterTest01.exe
+C:\Users\IEUser\AppData\Local\Temporary Projects\ExcelImporterTest01\obj\Debug\ExcelImporterTest01.pdb
+X:\Visual Studio 2015\Projects\ExcelImporterTest01\ExcelImporterTest01\bin\Debug\ExcelImporterTest01.exe.config
+X:\Visual Studio 2015\Projects\ExcelImporterTest01\ExcelImporterTest01\obj\Debug\ExcelImporterTest01.exe
+X:\Visual Studio 2015\Projects\ExcelImporterTest01\ExcelImporterTest01\obj\Debug\ExcelImporterTest01.xml
+X:\Visual Studio 2015\Projects\ExcelImporterTest01\ExcelImporterTest01\obj\Debug\ExcelImporterTest01.pdb
